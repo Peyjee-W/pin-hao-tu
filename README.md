@@ -108,7 +108,7 @@ Result = Image1 + Image2
 
 | 原图1                    | 原图2                    | Multiply 融合            | Add 融合                | Multiply + 反转         | Add + 反转              |
 | ---------------------- | ---------------------- | ------------------------ | ----------------------- | ------------------------ | ------------------------ |
-| ![](images/image1.jpg) | ![](images/image2.jpg) | ![](blended_multiply.png) | ![](blended_add.png)    | ![](blended_multiply_inverted.png) | ![](blended_add_inverted.png) |
+| ![](images/image1.png) | ![](images/image2.png) | ![](blended_multiply.png) | ![](blended_add.png)    | ![](blended_multiply_inverted.png) | ![](blended_add_inverted.png) |
 
 ---
 
