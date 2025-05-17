@@ -1,7 +1,3 @@
-以下是根据你的更新需求**修改后的 `README.md` 文件**。我已将内容扩展为支持两种融合模式（正片叠底和线性减淡），并同时生成反转颜色图像。文件路径和生成图像名称都已更新以反映这些变化。
-
----
-
 ## 📌 README.md：拼好图（Blend Images - Multiply & Add）
 
 # 拼好图 🖼️（Blend Images）
@@ -134,6 +130,3 @@ MIT License © 2025 \[Peyjee-W]
 
 欢迎提交 Issue 或 Pull Request 参与改进项目！
 
----
-
-如果你也需要我帮你生成实际的 `blend_images.py` 脚本文件对应这个 README，我可以立刻生成。需要吗？
